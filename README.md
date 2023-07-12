@@ -28,6 +28,8 @@ To visit the live site, click here: https://sophiawilliams16.github.io/dynamic-s
 
 To use the app, simply enter your busy schedule into the time blocks and click the save buttons on the right hand side. Next time you pull up the page, your saved tasks will still be there!
 
+![Demo](assets/screenshot.png)
+
 
 ## Credits
 
